@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+# Interactive Sales Deck – Mall of America
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  Overview
 
-## Available Scripts
+This project is a video-first, interactive sales deck designed to present Mall of America as a global retail, entertainment, and event destination.
+It replaces traditional static presentations with an immersive, self-guided experience that highlights scale, energy, and commercial opportunity.
 
-In the project directory, you can run:
+The goal is to help prospective tenants, sponsors, and event partners quickly understand the value of being part of this destination.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+##  Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Cinematic hero section with background video
+* Non-linear navigation (user-controlled flow)
+* Video-first storytelling across all sections
+* Smooth animations using Framer Motion
+* Reusable and scalable component architecture
+* Interactive "Explore More" and CTA actions
+* Clean, premium UI inspired by luxury brands
+* Responsive design (desktop & tablet optimized)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##  Tech Stack
 
-### `npm run build`
+* React.js
+* CSS3
+* Framer Motion
+* Vercel (Deployment)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  Design & Product Thinking
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The experience is designed to feel like a high-end interactive sales tool (Digideck), not a traditional website.
 
-### `npm run eject`
+Focus areas:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ Immediate visual impact within first few seconds
+ Storytelling through motion, video, and layout
+ Clear progression toward business action (leasing, sponsorship, events)
+ Minimal UI with maximum emphasis on content
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##  AI Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+AI tools were used to assist with:
+- UI/UX ideation and layout decisions
+- Content refinement and messaging
+- Development acceleration and debugging
+- Animation and interaction guidance
 
-## Learn More
+All final code structure, customization, and integration were implemented manually.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Setup Instructions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+npm start
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+##  Live Demo
 
-### Analyzing the Bundle Size
+(Add your deployed link here)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+##  Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+/components
+  /Hero
+  /Navbar
+  /Section
+  /CTA
+```
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+##  Future Improvements
 
-### Deployment
+ Dedicated event booking module
+ Sponsorship tiers and brand activation showcase
+ Advanced micro-interactions and transitions
+ Performance optimization (lazy loading videos)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 👤 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Vicky Kumar Chowrasia
