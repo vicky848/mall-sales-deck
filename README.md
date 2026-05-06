@@ -62,12 +62,9 @@ npm start
 ```
 
 ---
+## 🌐 Live Demo
 
-##  Live Demo
-
-(Add your deployed link here)
-
----
+https://mall-sales-deck-woad.vercel.app/
 
 ##  Project Structure
 
